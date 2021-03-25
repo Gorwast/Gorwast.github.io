@@ -5,7 +5,9 @@
  * Copyright: 3rd Wave Media
  * Twitter: @3rdwave_themes
  * Website: http://themes.3rdwavemedia.com/
+ * Edited by: Luis Enrique Lopez Chaidez
 */
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
@@ -294,6 +296,10 @@ p {
 
 .skillset .theme-progress-bar {
   background: #68bacd;
+}
+
+.small-icon {
+  width: 18px;
 }
 
 .footer {
